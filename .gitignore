@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+# 処理結果のファイル（本体の face_mosaic.py は除く）
+*_mosaic.*
+!face_mosaic.py

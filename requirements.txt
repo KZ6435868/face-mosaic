@@ -1,0 +1,5 @@
+opencv-python==5.0.0.93
+numpy==2.0.2
+imageio-ffmpeg==0.6.0
+pillow==11.3.0
+pillow_heif==1.1.1
